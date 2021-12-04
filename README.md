@@ -15,8 +15,8 @@ Integrantes do grupo:
 Kaylaine Martins Cassimiro - 321112874
 Phillip Gomes Câmara - 321127398
 Elerson Silva Evangelista - 321113627
-Francy Brandão Miranda - 
-Lucas 
+Francy Brandão Miranda - 32119217
+Lucas Barreto Gomes - 320258163
 
 Cronograma:
 
@@ -26,4 +26,4 @@ Reunião de alimento: 17/11/2021
 Reunião de alimento: 24/11/2021
 Reunião de alimento: 01/12/2021
 Entrega da documentação: 07/12/2021
-Entrega do código + vídeo: 08/12/2021
+Entrega do código + vídeo: 09/12/2021
