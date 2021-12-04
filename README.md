@@ -13,7 +13,9 @@ RNF - Requisitos Não Funcionais
 Requisitos não-funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvidas.
 
 RN - Regras de Negócio
-Requisitos não-funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvidas
+Regra de negócio é o que define a forma de fazer o negócio, refletindo a política interna, o processo definido e/ou as regras básicas de conduta. Ou seja, é um conjunto de instruções que os usuários já seguem e que o sistema a ser desenvolvido deve contemplar.
+
+Fonte: Google
 
 Integrantes do grupo:
 
