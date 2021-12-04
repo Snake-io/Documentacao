@@ -17,3 +17,13 @@ Phillip Gomes Câmara - 321127398
 Elerson Silva Evangelista - 321113627
 Francy Brandão Miranda - 
 Lucas 
+
+Cronograma:
+
+Inicio do projeto: 08/11/2021
+Reunião de alimento: 10/11/2021
+Reunião de alimento: 17/11/2021
+Reunião de alimento: 24/11/2021
+Reunião de alimento: 01/12/2021
+Entrega da documentação: 07/12/2021
+Entrega do código + vídeo: 08/12/2021
