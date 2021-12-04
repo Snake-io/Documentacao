@@ -7,8 +7,13 @@ O Snake Questions é um jogo de perguntas e respostas em que dois jogadores esco
 Definições e siglas:
 
 RF - Requisitos Funcionais
+Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.
+
 RNF - Requisitos Não Funcionais
+Requisitos não-funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvidas.
+
 RN - Regras de Negócio
+Requisitos não-funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvidas
 
 Integrantes do grupo:
 
