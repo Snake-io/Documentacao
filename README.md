@@ -17,6 +17,21 @@ Regra de negócio é o que define a forma de fazer o negócio, refletindo a pol�
 
 Fonte: Google
 
+Casos de uso de projeto
+![casos de uso](https://user-images.githubusercontent.com/89428033/144941559-c8c1a90c-b0c1-4738-b14e-5b8bb92d085e.PNG)
+
+
+
+
+Diagrama de Classes do projeto
+![classes dd](https://user-images.githubusercontent.com/89428033/144941586-94e419a3-5a5d-4e47-9c73-8362aa11b565.PNG)
+
+
+
+
+
+
+
 Integrantes do grupo:
 
 Kaylaine Martins Cassimiro - 321112874
