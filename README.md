@@ -49,3 +49,7 @@ Reunião de alimento: 24/11/2021
 Reunião de alimento: 01/12/2021
 Entrega da documentação: 07/12/2021
 Entrega do código + vídeo: 09/12/2021
+
+Backlog and sprints 
+
+[kanban2](https://user-images.githubusercontent.com/81492120/145111775-4e0ce441-94eb-4b1b-bdbc-251d8d48baab.jpg) 
